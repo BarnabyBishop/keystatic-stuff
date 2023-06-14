@@ -1,15 +1,13 @@
 {
   "compilerOptions": {
-    "target": "esnext",
     "lib": ["dom", "dom.iterable", "esnext"],
     "allowJs": true,
     "skipLibCheck": true,
     "strict": false,
     "forceConsistentCasingInFileNames": true,
     "noEmit": true,
-    "incremental": false,
+    "incremental": true,
     "esModuleInterop": true,
-    "declaration": true,
     "module": "esnext",
     "moduleResolution": "node",
     "resolveJsonModule": true,
