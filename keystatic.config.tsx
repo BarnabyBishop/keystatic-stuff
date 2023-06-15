@@ -3,7 +3,7 @@ import { config, collection, fields } from '@keystatic/core';
 export default config({
   storage: {
     kind: 'cloud',
-    project: 'stuff',
+    project: 'go-to-market/stuff',
   },
   collections: {
     posts: collection({
